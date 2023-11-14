@@ -1,0 +1,9 @@
+Package: com.f19.headerdumper
+Name: headerdumper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome library of some sort!!
+Maintainer: f19
+Author: f19
+Section: System
+Tag: role::developer
